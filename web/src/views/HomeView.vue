@@ -36,6 +36,7 @@ import loading from '../components/loading.vue';
 </script>
 
 <style lang="scss" scoped>
+
 .loding{
   width: 100%;
   height: 70vh;
@@ -50,7 +51,7 @@ import loading from '../components/loading.vue';
   display: flex;
   justify-content: center;
   flex-direction: column;
-  font-family: 'Siemreap', cursive;
+  // font-family: 'Siemreap', cursive;
   align-items: center;
   img{
     width: 10rem;
@@ -70,8 +71,8 @@ main{
   .item{
     height: 100%;
     padding: .5rem;
-    border-radius: .3rem;
-    border: 2px solid black;
+    // border-radius: .3rem;
+    border: 2px solid rgb(254, 15, 15);
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -120,7 +120,7 @@
         .loader::before {
             width: 32px;
             height: 32px;
-            border-color: rgb(108, 106, 106) rgb(108, 106, 106) transparent transparent;
+            border-color: rgb(104, 185, 228) rgb(108, 106, 106) transparent transparent;
             animation: rotation 1.5s linear infinite;
         }
         
